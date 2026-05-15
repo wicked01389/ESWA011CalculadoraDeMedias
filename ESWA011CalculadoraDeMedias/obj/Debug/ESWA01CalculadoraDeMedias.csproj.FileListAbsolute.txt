@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Aplicativo 14.05\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\bin\Debug\ESWA01CalculadoraDeMedias.dll
+C:\Users\User\Desktop\Aplicativo 14.05\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\bin\Debug\ESWA01CalculadoraDeMedias.pdb
+C:\Users\User\Desktop\Aplicativo 14.05\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\obj\Debug\ESWA01CalculadoraDeMedias.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Aplicativo 14.05\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\obj\Debug\ESWA01CalculadoraDeMedias.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Aplicativo 14.05\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\obj\Debug\ESWA01CalculadoraDeMedias.dll
+C:\Users\User\Desktop\Aplicativo 14.05\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\obj\Debug\ESWA01CalculadoraDeMedias.pdb
